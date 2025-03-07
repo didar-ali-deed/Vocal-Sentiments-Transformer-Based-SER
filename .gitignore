@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore dataset directories
+data/ravdess/
+data/tess/
+
+# Ignore specific training script
+train_emotion_classifier_copy_T.py
